@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP myfaq plugin\n"
+"POT-Creation-Date: 2017-01-07 14:02+0330\n"
+"PO-Revision-Date: 2017-01-07 15:04+0330\n"
+"Last-Translator: G0back <habil68@yahoo.com>\n"
+"Language-Team: wp-master.ir <wp@wp-master.ir>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_x;_e;MYFAQ_Gecho\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../PHP/all.fns.php:1
+msgid "MY FAQ"
+msgstr "پرسش و پاسخ"
+
+#: ../PHP/all.fns.php:1
+msgid "Add New"
+msgstr "جدید"
+
+#: ../PHP/all.fns.php:1
+msgid "Add New FAQ"
+msgstr "نوشتن FAQ جدید"
+
+#: ../PHP/all.fns.php:1
+msgid "Edit FAQ"
+msgstr "ویرایش FAQ"
+
+#: ../PHP/all.fns.php:1
+msgid "New FAQ Items"
+msgstr "FAQ های جدید"
+
+#: ../PHP/all.fns.php:1
+msgid "All FAQ's"
+msgstr " پرسش و پاسخ ها"
+
+#: ../PHP/all.fns.php:1
+msgid "View FAQ"
+msgstr "مشاهده FAQ"
+
+#: ../PHP/all.fns.php:1
+msgid "Search FAQ"
+msgstr "جستجوی FAQ"
+
+#: ../PHP/all.fns.php:1
+msgid "No FAQ Items found"
+msgstr "پرسش و پاسخی یافت نشد"
+
+#: ../PHP/all.fns.php:1
+msgid "No FAQ Items found in the Trash"
+msgstr "پرسش و پاسخی در زباله یافت نشد"
+
+#: ../PHP/all.fns.php:1
+msgid "FAQ Categories"
+msgstr "دسته ها"
+
+#: ../PHP/all.fns.php:1
+msgid "FAQ Category"
+msgstr "دسته FAQ"
+
+#: ../PHP/all.fns.php:1
+msgid "Search FAQ Categories"
+msgstr "جستجوی دسته FAQ"
+
+#: ../PHP/all.fns.php:1
+msgid "All FAQ Category"
+msgstr "تمامی دسته های FAQ"
+
+#: ../PHP/all.fns.php:1
+msgid "Parent FAQ Category"
+msgstr "دسته مادر:"
+
+#: ../PHP/all.fns.php:1
+msgid "Parent FAQ Category:"
+msgstr "دسته مادر:"
+
+#: ../PHP/all.fns.php:1
+msgid "Edit FAQ Category"
+msgstr "ویرایش دسته FAQ"
+
+#: ../PHP/all.fns.php:1
+msgid "Update FAQ Category"
+msgstr "به روز رسانی دسته جدید FAQ"
+
+#: ../PHP/all.fns.php:1
+msgid "Add New FAQ Category"
+msgstr "اضافه کردن دسته جدید FAQ"
+
+#: ../PHP/all.fns.php:1
+msgid "New FAQ Category Name"
+msgstr "دسته جدید برای FAQ"
+
+#: ../PHP/all.fns.php:1
+msgid "<p class=\"myfaq-error\">FAQ Disabled!</p>"
+msgstr "<p class=\"myfaq-error\">پرسش و پاسخ غیرفعال می باشد.</p>"
+
+#: ../PHP/all.fns.php:1
+msgid ":: FAQ List ::"
+msgstr ":: پرسش ها و پاسخ ها ::"
+
+#: ../PHP/all.fns.php:1
+msgid "To Ask Question Click Here!"
+msgstr "برای ارسال سوال خود کلیک کنید!"
+
+#: ../PHP/all.fns.php:1
+msgid "Title"
+msgstr "عنوان"
+
+#: ../PHP/all.fns.php:1
+msgid "Question title here...!"
+msgstr "عنوان سوال اینجا نوشته شود"
+
+#: ../PHP/all.fns.php:1
+msgid "Question"
+msgstr "سوال"
+
+#: ../PHP/all.fns.php:1
+msgid "Write your question here...!"
+msgstr "سوالتان را اینجا بنویسید"
+
+#: ../PHP/all.fns.php:1
+msgid "Captcha"
+msgstr "تصویر امنیتی"
+
+#: ../PHP/all.fns.php:1
+msgid "Optional Fields,Fill for question alerts about your questions "
+msgstr "موارد اختیاری،برای اطلاع رسانی پاسخ پر شود"
+
+#: ../PHP/all.fns.php:1
+msgid "Email"
+msgstr "ایمیل"
+
+#: ../PHP/all.fns.php:1
+msgid "Enter your email...!"
+msgstr "ایمیل خود را وارد کنید"
+
+#: ../PHP/all.fns.php:1
+msgid "Mobile"
+msgstr "موبایل"
+
+#: ../PHP/all.fns.php:1
+msgid "Enter Your mobile...!"
+msgstr "موبایل خود را وارد نمایید"
+
+#: ../PHP/all.fns.php:1
+msgid "Ask"
+msgstr "ارسال سوال"
+
+#: ../PHP/all.fns.php:1
+msgid "Comments"
+msgstr "نظرات"
+
+#: ../PHP/all.fns.php:1
+msgid "::Edit"
+msgstr "::ویرایش"
+
+#: ../PHP/all.fns.php:1
+msgid "<p class=\"myfaq-error\">There is no FAQ yet.</p>"
+msgstr "<p class=\"myfaq-error\">پرسشی تا کنون وارد نشده است.</p>"
+
+#: ../PHP/all.fns.php:1
+msgid "settings"
+msgstr "تنظیمات"
+
+#: ../PHP/all.fns.php:1
+msgid "Help"
+msgstr "راهنما"
+
+#: ../PHP/all.fns.php:1
+msgid "help"
+msgstr "راهنما"
+
+#: ../PHP/all.fns.php:1
+msgid "Settings are saved successfully"
+msgstr "تنظیمات با موفقیت ثبت گردیدند."
+
+#: ../PHP/all.fns.php:1
+msgid "General Settings"
+msgstr "تنظیمات عمومی"
+
+#: ../PHP/all.fns.php:1
+msgid "Enable/Disable"
+msgstr "فعال/غیرفعال"
+
+#: ../PHP/all.fns.php:1
+msgid "Check it for enable it"
+msgstr "جهت فعال بودن باید انتخاب باشد"
+
+#: ../PHP/all.fns.php:1
+msgid "FAQ per page number"
+msgstr "تعداد پرسش و پاسخ در هر صفحه"
+
+#: ../PHP/all.fns.php:1
+msgid "How many items can be show in one page."
+msgstr "چه تعداد پرسش و پاسخ در هر صفحه نمایش داده شود"
+
+#: ../PHP/all.fns.php:1
+msgid "Save"
+msgstr "ذخیره"
+
+#: ../PHP/all.fns.php:1
+msgid "How to use in posts/pages"
+msgstr "چگونه فرم را در نوشته یا برگه نمایش دهم"
+
+#: ../PHP/all.fns.php:1
+msgid "Just use this shortcode anywhere you want to show"
+msgstr "کافیست از این کد کوتاه در هرجایی که مدنظرتان بود استفاده کنید"
+
+#: ../PHP/all.fns.php:1
+msgid "Your FAQ Answered On"
+msgstr "پاسخ شما ارسال شده است در"
+
+#: ../PHP/all.fns.php:1
+msgid "Your FAQ Answered"
+msgstr "سوال شما پاسخ داده شده است"
+
+#: ../PHP/all.fns.php:1
+msgid "Email is not valid"
+msgstr "ایمیل وارد شده معتبر نمی باشد"
+
+#: ../PHP/all.fns.php:1
+msgid "Your question sent successfully .We will answer as soon as possible.tnQ"
+msgstr "سوال شما ارسال شد،در اسرع وقت پاسخ داده خواهد شد،با تشکر"
+
+#: ../PHP/all.fns.php:1
+msgid "There is a problem,Try Again."
+msgstr "مشکلی هست،دوباره تلاش کنید."
+
+#: ../PHP/all.fns.php:1
+msgid "Captcha is incorrect,Try Again."
+msgstr "سوال امنیتی را اشتباه وارد کرده اید،دوباره تلاش کنید."
+
+#: ../PHP/all.fns.php:1
+msgid "Incorrect request."
+msgstr "درخواست اشتباه."
+
+#~ msgid "Reset"
+#~ msgstr "ریست"
+
+#~ msgid "FAQ submitted.you will get your answer via email if you entered mail."
+#~ msgstr "سوال ثبت شد،در صورت وارد کردن ایمیل به شما اطلاع رسانی خواهد شد."
+
+#~ msgid "FAQ submitted."
+#~ msgstr "سوال شما ثبت شد،پاسخ با ایمیل اطلاع داده خواهد شد."
+
+#~ msgid "Read other comments or leave a comment! for this question"
+#~ msgstr "نظرات دیگران را مشاهده یا خودتان نظری برای این پاسخ ارسال کنید."
+
+#~ msgid "My FAQ plugin settings"
+#~ msgstr "صفحه تنظیمات افزونه"

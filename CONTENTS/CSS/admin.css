@@ -1,0 +1,99 @@
+.w181px {
+  font-size: 8pt;
+  width: 181px !important;
+}
+#G-admin-menu-them {
+  border: 1px solid #CCCCCC;
+  border-radius: 5px 5px 5px 5px;
+  height: 500px;
+  margin: 20px auto auto;
+  width: 800px;
+}
+#G-admin-menu-them .description {
+  font-size: 8pt;
+}
+#G-admin-menu-them label {
+  font-size: 8pt;
+}
+#G-admin-menu-them-btns {
+  border: 1px solid #CCCCCC;
+  border-radius: 5px 5px 5px 5px;
+  height: 30px;
+  margin: 3px auto;
+  padding: 5px;
+  text-align: center;
+  width: 791px;
+}
+#G-in-admin-rigth {
+  float: none;
+  margin: 5px;
+  overflow: hidden;
+  width: 585px;
+}
+#G-in-admin-left {
+  float: right;
+  margin: 5px;
+  overflow: hidden;
+  width: 185px;
+}
+#G-in-admin-left-ul {
+  margin: 0;
+}
+#G-in-admin-left-ul li a {
+  border: 1px solid #EEEEEE;
+  border-radius: 3px 3px 3px 3px;
+  display: block;
+  margin: 0;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  width: 92%;
+}
+#G-in-admin-left-ul li a:hover {
+	
+}
+.G-in-admin-rigths {
+  background: none repeat scroll 0 0 #FFFFFF;
+  border: 1px solid #EEEEEE;
+  border-radius: 5px 5px 5px 5px;
+  height: 477px;
+  overflow-y: auto;
+  padding: 5px;
+  position: absolute;
+  width: 575px;
+}
+.G-in-admin-rigths-h2 {
+  font-size: 10pt !important;
+  text-align: left;
+}
+.clear {
+  clear: both;
+  height: 1px;
+  width: 100%;
+}
+.active-tab,.active-tab:hover {
+  background: none repeat scroll 0 0 #3F89C3;
+  color: #DDDDDD;
+}
+.G-in-admin-rigths h2 {
+  text-align: right;
+}
+.td-separator {
+  border-bottom-color: #DFDFDF !important;
+  border-left-color: #DFDFDF !important;
+  border-right-color: #DFDFDF !important;
+  border-top: 1px solid #DFDFDF;
+  color: #777777;
+  margin-right: 20px;
+  padding: 10px 0 !important;
+}
+.textboxcode {
+  background: none repeat scroll 0 0 #222222;
+  color: #FFFFFF;
+  direction: ltr;
+  height: 200px;
+  width: 400px;
+}
+.status-pending {
+  background: #FFFF00;
+}

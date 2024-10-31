@@ -1,0 +1,1 @@
+<?php/*Load Classes*/global $MYFAQ_admin_options;@$MYFAQ_admin_options	=	array_map('stripslashes',get_option(MYFAQ_TEXT_DOMAIN.'_options',array('g_myfaq-enable'=>1,'g_myfaq-enable-captcha'=>0)));require MYFAQ_PHP_DIR.'all.fns.php';
